@@ -29,6 +29,7 @@ int main()
             a.insert(str);
         }
     }
+
     int m;
     cin>>m;
     string result = "";
