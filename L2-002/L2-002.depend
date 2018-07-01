@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1530419664 source:d:\workspace\c_workspace\pta\l2-002\main.cpp
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<cctype>
+	<algorithm>
+
