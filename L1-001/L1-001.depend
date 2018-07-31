@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530283361 source:d:\workspace\c_workspace\pta\l1-001\main.cpp
+	<iostream>
+	<stdlib.h>
+
