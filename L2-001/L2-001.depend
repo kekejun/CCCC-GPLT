@@ -2,3 +2,10 @@
 1530366318 source:d:\workspace\c_workspace\pta\l2-001\main.cpp
 	<iostream>
 
+1533402663 source:d:\workspace\c_workspace\l2-001\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+	<cstdio>
+	<vector>
+

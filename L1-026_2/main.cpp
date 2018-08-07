@@ -7,7 +7,7 @@ using namespace std;
 
 const int maxn = 100005;
 int data[maxn];
-vector<int> v[maxn];
+vector<vector<int> > v;
 
 int max_deep = -1;
 
@@ -26,6 +26,8 @@ void dfs(int root,int deep)
 int main()
 {
 
+    v.resize(maxn);
+
     int n,root;
     cin>>n;
 
@@ -33,9 +35,11 @@ int main()
     {
         int temp;
         cin>>temp;
-        v[temp].push_back(i);
+
         if(temp == -1)
             root = i;
+        else
+            v[temp].push_back(i);
     }
 
     dfs(root,1);

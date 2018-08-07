@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1533309874 source:d:\workspace\c_workspace\l2-016\main.cpp
+	<iostream>
+	<queue>
+

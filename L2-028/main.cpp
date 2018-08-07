@@ -3,6 +3,7 @@
 #include <cmath>
 #include <stdlib.h>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
 double data[1001][1001];
